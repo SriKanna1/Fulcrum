@@ -1,0 +1,641 @@
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\obj\Debug\FulCrum.csprojAssemblyReference.cache
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\obj\Debug\FulCrum.csproj.CoreCompileInputs.cache
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ApplicationInsights.config
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\FulCrum.dll.config
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\FulCrum.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\FulCrum.pdb
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\csc.exe
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\csc.exe.config
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\csc.rsp
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\csi.exe
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\csi.exe.config
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\csi.rsp
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.AppContext.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Console.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\vbc.exe
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\vbc.exe.config
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\vbc.rsp
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Antlr3.Runtime.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\FulCrumReport_Lib.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.Web.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Newtonsoft.Json.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Web.Optimization.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Telerik.Reporting.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Telerik.ReportViewer.WebForms.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Telerik.Web.Design.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Telerik.Web.UI.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Telerik.Web.UI.Skins.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\WebGrease.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\FulCrumReport_Lib.pdb
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\FulCrumReport_Lib.dll.config
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Web.Optimization.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Newtonsoft.Json.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Telerik.Reporting.pdb
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Telerik.Reporting.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Antlr3.Runtime.pdb
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AI.Web.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\obj\Debug\FulCrum.csproj.CopyComplete
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\obj\Debug\FulCrum.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\obj\Debug\FulCrum.pdb
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Newtonsoft.Json.pdb
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\netstandard.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.AppContext.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Collections.Concurrent.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Collections.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Collections.NonGeneric.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Collections.Specialized.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.ComponentModel.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.ComponentModel.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Console.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Data.Common.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.Contracts.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.Debug.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.Process.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.Tools.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Diagnostics.Tracing.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Drawing.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Dynamic.Runtime.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Globalization.Calendars.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Globalization.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Globalization.Extensions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.Compression.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.FileSystem.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.IsolatedStorage.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.Pipes.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Linq.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Linq.Expressions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Linq.Parallel.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Linq.Queryable.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.Http.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.NameResolution.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.NetworkInformation.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.Ping.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.Requests.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.Security.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.Sockets.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.WebSockets.Client.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Net.WebSockets.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.ObjectModel.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Reflection.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Reflection.Extensions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Reflection.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Resources.Reader.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Resources.ResourceManager.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Resources.Writer.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.Extensions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.Handles.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.InteropServices.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.Numerics.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Claims.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Principal.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.SecureString.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Text.Encoding.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Text.RegularExpressions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Threading.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Threading.Overlapped.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Threading.Tasks.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Threading.Thread.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Threading.ThreadPool.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Threading.Timer.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.ValueTuple.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Xml.ReaderWriter.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Xml.XDocument.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Xml.XmlDocument.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Xml.XmlSerializer.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Xml.XPath.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Data.Edm.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Data.OData.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Options.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Win32.Registry.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Buffers.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.ComponentModel.Annotations.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Memory.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Numerics.Vectors.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.AccessControl.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Permissions.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Security.Principal.Windows.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Spatial.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Text.Encodings.Web.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Data.Edm.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Data.OData.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Options.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Buffers.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Memory.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Numerics.Vectors.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Spatial.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\System.Text.Encodings.Web.xml
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\de\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\es\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\fr\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\it\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ja\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ko\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\ru\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Kurva_Srikanth\Desktop\AnilCode\FulcrumWithoutAD\FulCrum\bin\zh-Hant\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ApplicationInsights.config
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\FulCrum.dll.config
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\FulCrum.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\FulCrum.pdb
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\csc.exe
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\csc.exe.config
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\csc.rsp
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\csi.exe
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\csi.exe.config
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\csi.rsp
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.AppContext.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Collections.Immutable.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Console.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Diagnostics.Process.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.IO.Compression.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.IO.Pipes.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Reflection.Metadata.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Security.AccessControl.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Security.Claims.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Security.Principal.Windows.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Threading.Thread.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.ValueTuple.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Xml.XmlDocument.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Xml.XPath.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\vbc.exe
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\vbc.exe.config
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\vbc.rsp
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\VBCSCompiler.exe
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\VBCSCompiler.exe.config
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Win32.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\netstandard.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.AppContext.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Collections.Concurrent.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Collections.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Collections.NonGeneric.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Collections.Specialized.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.ComponentModel.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.ComponentModel.EventBasedAsync.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.ComponentModel.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.ComponentModel.TypeConverter.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Console.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Data.Common.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.Contracts.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.Debug.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.FileVersionInfo.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.Process.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.StackTrace.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.Tools.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.TraceSource.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.Tracing.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Drawing.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Dynamic.Runtime.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Globalization.Calendars.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Globalization.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Globalization.Extensions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.Compression.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.Compression.ZipFile.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.FileSystem.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.FileSystem.DriveInfo.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.FileSystem.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.FileSystem.Watcher.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.IsolatedStorage.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.MemoryMappedFiles.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.Pipes.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.IO.UnmanagedMemoryStream.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Linq.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Linq.Expressions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Linq.Parallel.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Linq.Queryable.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.Http.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.NameResolution.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.NetworkInformation.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.Ping.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.Requests.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.Security.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.Sockets.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.WebHeaderCollection.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.WebSockets.Client.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Net.WebSockets.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.ObjectModel.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Reflection.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Reflection.Extensions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Reflection.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Resources.Reader.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Resources.ResourceManager.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Resources.Writer.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.Extensions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.Handles.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.InteropServices.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.Numerics.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.Serialization.Formatters.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.Serialization.Json.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.Serialization.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.Serialization.Xml.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Claims.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Cryptography.Algorithms.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Cryptography.Csp.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Cryptography.Encoding.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Cryptography.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Cryptography.X509Certificates.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Principal.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.SecureString.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Text.Encoding.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Text.Encoding.Extensions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Text.RegularExpressions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Threading.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Threading.Overlapped.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Threading.Tasks.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Threading.Tasks.Parallel.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Threading.Thread.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Threading.ThreadPool.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Threading.Timer.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.ValueTuple.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Xml.ReaderWriter.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Xml.XDocument.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Xml.XmlDocument.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Xml.XmlSerializer.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Xml.XPath.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Xml.XPath.XDocument.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Antlr3.Runtime.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\AspNet.ScriptManager.bootstrap.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\AspNet.ScriptManager.jQuery.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.Agent.Intercept.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.DependencyCollector.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.Web.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.WindowsServer.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.ApplicationInsights.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Identity.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Data.Edm.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Data.OData.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Data.Services.Client.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Configuration.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Identity.Core.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Logging.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.ObjectPool.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Options.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.WebEncoders.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Net.Http.Headers.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.ScriptManager.WebForms.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Web.Infrastructure.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Win32.Registry.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Newtonsoft.Json.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Buffers.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.ComponentModel.Annotations.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.DiagnosticSource.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Memory.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Numerics.Vectors.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.AccessControl.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Cryptography.Xml.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Permissions.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Security.Principal.Windows.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Spatial.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Text.Encodings.Web.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Web.Optimization.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Telerik.Reporting.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Telerik.ReportViewer.WebForms.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\WebGrease.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.Identity.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Data.Edm.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Data.OData.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Data.Services.Client.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Configuration.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Identity.Core.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Logging.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.ObjectPool.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Options.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.Primitives.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Extensions.WebEncoders.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.Net.Http.Headers.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Newtonsoft.Json.pdb
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Newtonsoft.Json.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Buffers.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Memory.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Numerics.Vectors.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Spatial.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Text.Encodings.Web.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Web.Optimization.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Telerik.Reporting.pdb
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Telerik.Reporting.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Telerik.ReportViewer.WebForms.pdb
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Telerik.ReportViewer.WebForms.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Antlr3.Runtime.pdb
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\System.Diagnostics.DiagnosticSource.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.DependencyCollector.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.WindowsServer.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.AI.Web.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\de\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\es\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\it\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\de\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\es\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\fr\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\it\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ja\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ko\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ru\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\de\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\es\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\fr\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\it\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ja\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ko\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\ru\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hans\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\zh-Hant\System.Spatial.resources.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\obj\Debug\FulCrum.csproj.CoreCompileInputs.cache
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\obj\Debug\FulCrum.csproj.CopyComplete
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\obj\Debug\FulCrum.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\obj\Debug\FulCrum.pdb
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\FulCrumReport_Lib.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\FulCrumReport_Lib.pdb
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\FulCrumReport_Lib.dll.config
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\obj\Debug\FulCrum.dll.licenses
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.IO.FileSystem.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\EnvDTE.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\stdole.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Spire.Common.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Spire.Pdf.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Spire.XLS.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Microsoft.mshtml.dll
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Spire.Common.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Spire.Pdf.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\bin\Spire.XLS.xml
+D:\covan projects\Fulcrum\WithoutAD\Fulcrum\FulCrum\obj\Debug\FulCrum.csprojAssemblyReference.cache

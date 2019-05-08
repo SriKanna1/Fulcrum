@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+.circle {
+  padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 3px solid #1e9a8b;
+  background-color: #fff;
+  color: #1e9a8b;
+  line-height: 25px;
+  overflow: hidden;
+}
+.circle2 {
+  padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 3px solid #4ba910;
+  background-color: #fff;
+  color: #4ba910;
+  line-height: 25px;
+  overflow: hidden;
+}
+.circle3 {
+  padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 3px solid #f6b03c;
+  background-color: #fff;
+  color: #f6b03c;
+  line-height: 25px;
+  overflow: hidden;
+}
+.circle4 {
+  padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 3px solid #09a9ec;
+  background-color: #fff;
+  color: #09a9ec;
+  line-height: 25px;
+  overflow: hidden;
+}
+

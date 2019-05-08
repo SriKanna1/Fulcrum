@@ -1,0 +1,257 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FulcrumMaster.master.cs" Inherits="Fulcrum.FulcrumMaster" %>
+
+<%@ Register Assembly="Telerik.Web.UI" TagPrefix="Telerik" Namespace="Telerik.Web.UI" %>
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=09" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui" />
+
+    <title>PikeFulcrum</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link type="text/css" rel="shortcut icon" href="assets/images/favicon.ico" />
+
+    <!-- DataTables -->
+    <link href="assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/datatables/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <!-- Responsive datatable examples -->
+    <link href="assets/plugins/datatables/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/icons.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/circle.css" rel="stylesheet" type="text/css" />
+    <link href="css/styleW3.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+        function DdlSwitchApplication(DdlApplication) {
+            var selectedText = DdlApplication.options[DdlApplication.selectedIndex].selectedText;
+            var e = document.getElementById("DdlApplication");
+            var ApplicationType = e.options[e.selectedIndex].value;
+            window.open("NavigateTemplate.aspx?ApplicationType=" + ApplicationType, "_self");
+        }
+    </script>
+</head>
+
+<body>
+    <form id="form2" runat="server">
+        <header id="topnav">
+            <div class="topbar-main" style="background-color: #042737;">
+                <div class="container-fluid">
+
+                    <!-- Logo container-->
+                    <div class="logo">
+                        <!-- Image Logo -->
+                        <a href="Dashboard.aspx" class="logo" runat="server" id="logoDashboard">
+                            <img src="assets/images/logo-sm.png" alt="" height="32" class="logo-small" />
+                            <img src="assets/images/oldlogo.png" alt="" height="40" class="logo-large" />
+                        </a>
+
+                    </div>
+                    <!-- End Logo container-->
+
+
+                    <div class="menu-extras topbar-custom">
+                       
+                        <ul class="list-inline float-right mb-0">
+                            <!-- Search -->
+                            <li class="list-inline-item dropdown notification-list d-none d-sm-inline-block" style="padding-top: 20px; padding-right: 20px;">
+                                <p style="color: #fff;">
+                                    <asp:Label ID="lblDatetime" runat="server"></asp:Label>
+                                </p>
+                            </li>
+                            <li class="list-inline-item dropdown notification-list d-none d-sm-inline-block" style="padding-top: 20px;">
+                                <p style="color: #fff;">
+                                    Welcome <strong>
+                                        <asp:Label ID="lblName" runat="server"></asp:Label></strong>
+                                </p>
+                            </li>
+                            <li class="list-inline-item dropdown notification-list d-none d-sm-inline-block" style="padding-top: 20px;">
+                                <p style="color: #fff;">/ <a href="Login.aspx" style="color: #fff;">&nbsp;<strong>Logout</strong> </a></p>
+                            </li>
+
+                            <!-- Messages-->
+                            <!-- notification-->
+                            <!-- User-->
+                            <li class="menu-item list-inline-item">
+                                <!-- Mobile menu toggle-->
+                                <a class="navbar-toggle nav-link">
+                                    <div class="lines">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </div>
+                                </a>
+                                <!-- End mobile menu toggle-->
+                            </li>
+
+                        </ul>
+                            
+
+                    </div>
+                    <!-- end menu-extras -->
+
+                    <div class="clearfix"></div>
+
+                </div>
+                <!-- end container -->
+            </div>
+            <!-- end topbar-main -->
+
+            <!-- MENU Start -->
+            <div class="navbar-custom">
+                <div class="container-fluid">
+                    <div id="navigation">
+                        <!-- Navigation Menu-->
+                        <ul class="navigation-menu">
+                            <li class="has-submenu">
+                                <a href="User_Manintenance.aspx" id="UserMaintenance" runat="server">User Maintenance</a>
+                            </li>
+                            <%--GPCMakeReady--%>
+                            <li class="has-submenu">
+                                <a href="Dashboard.aspx" id="MakeReadyDashBoard" runat="server">GPC Dashboard</a>
+                            </li>
+                            <li class="has-submenu">
+                                <a id="MakeredyForms" runat="server">Forms</a>
+                                <ul class="submenu">
+                                    <li><a href="FieldDataEntry.aspx">Field Data Entry</a></li>
+                                    <li><a href="JobData.aspx">Job Data</a></li>
+                                </ul>
+                            </li>
+                            <li class="has-submenu">
+                                <a id="MakeredyReports" runat="server">Reports</a>
+                                <ul class="submenu">
+                                    <li><a href="rptWorkLocationByCompany.aspx">Work Location By Company</a></li>
+                                    <li><a href="rptWorkLocation.aspx">Work Location</a></li>
+                                    <li><a href="rptEstimatedCost.aspx">Estimated Cost</a></li>
+                                    <li><a href="rptWorkLocationImage.aspx">Work Locations Image</a></li>
+                                </ul>
+                            </li>
+                            <%--CobbEMC--%>
+                            <li class="has-submenu" id="cobbDashBoard" runat="server">
+                                <a href="CobbDashboard.aspx">Cobb EMC Dashboard</a>
+                            </li>
+                            <li class="has-submenu">
+                                <a id="CobbForms" runat="server">Forms</a>
+                                <ul class="submenu">
+                                    <li><a href="CobbFieldDataEntry.aspx">Field Data Entry</a></li>
+                                    <li><a href="CobbJobData.aspx">Job Data</a></li>
+                                </ul>
+                            </li>
+                            <li class="has-submenu">
+                                <a id="CobbReports" runat="server">Reports</a>
+                                <ul class="submenu">
+                                    <li><a href="rptCobbWorkLocationByCompany.aspx">Work Location By Company</a></li>
+                                    <li><a href="rptCobbWorkLocation.aspx">Work Location</a></li>
+                                    <li><a href="rptCobbEstimatedCost.aspx">Estimated Cost</a></li>
+                                    <li><a href="rptCobbWorkLocationImage.aspx">Work Locations Image</a></li>
+                                </ul>
+                            </li>
+                            <%--APCMRApco--%>
+                             <li class="has-submenu" id="APCMRApcoDashboard" runat="server">
+                                <a href="APCMRDashboard.aspx">APCMRApco Dashboard</a>
+                            </li>
+                            <li class="has-submenu">
+                                <a id="APCMRApcoForms" runat="server">Forms</a>
+                                <ul class="submenu">
+                                    <li><a href="APCMRPreInspectionDataEntry.aspx">Pre Inspection Data Entry</a></li>
+                                    <li><a href="APCMRPostInspectionDataEntry.aspx">Post Inspection Data Entry</a></li>
+                                    <li><a href="APCMRJobData.aspx">Job Data</a></li>
+                                </ul>
+                            </li>
+                            <li class="has-submenu">
+                                <a id="APCMRApcoReports" runat="server">Reports</a>
+                                <ul class="submenu">
+                                    <li><a href="rptAPCMRWorkLocationByCompany.aspx">Work Location By Company</a></li>
+                                    <li><a href="rptAPCMRWorkLocation.aspx">Work Location</a></li>
+                                    <li><a href="rptAPCMREstimatedCost.aspx">Estimated Cost</a></li>
+                                    <li><a href="rptAPCMRWorkLocationImage.aspx">Work Locations Image</a></li>
+                                </ul>
+                            </li>
+                            
+
+                             <div class="list-inline float-right mb-0"> Applications
+                          <asp:DropDownList ID="DdlApplication"  AutoPostBack="true" OnSelectedIndexChanged="DdlApplication_SelectedIndexChanged" runat="server"></asp:DropDownList>
+                        </div>
+                        </ul>
+                        
+                        <!-- End navigation menu -->
+                    </div>
+                    <!-- end #navigation -->
+                </div>
+                <!-- end container -->
+            </div>
+            <!-- end navbar-custom -->
+        </header>
+
+
+
+        <Telerik:RadScriptManager ID="RadScriptManager1" runat="server"></Telerik:RadScriptManager>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <div id="headerWrap">
+                        <div class="headerOuter">
+                            <div class="headerLeft" style="padding: 0px 0px 0px 0px;">
+                                <img src="Images/logo.jpg" style="border: none" alt="logo" />
+                            </div>
+
+                            <div class="headerRight">
+                                <div class="nav-collapse collapse">
+                                    <p class="navbar-form pull-right" style="padding-top: 10px;">
+
+                                        <asp:Label runat="server" ID="lblMessage" Text="Welcome" />&nbsp;&nbsp;&nbsp;&nbsp;
+                      <a href="Login.aspx" style="color: white">Sign Out</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="clearboth"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer class="footer">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+                        © Pike Engineering, LLC. 2019
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+
+
+        <!-- jQuery  -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/modernizr.min.js"></script>
+        <script src="assets/js/detect.js"></script>
+        <script src="assets/js/fastclick.js"></script>
+        <script src="assets/js/jquery.slimscroll.js"></script>
+        <script src="assets/js/jquery.blockUI.js"></script>
+        <script src="assets/js/waves.js"></script>
+
+        <!--Morris Chart-->
+        <script src="assets/plugins/morris/morris.min.js"></script>
+        <script src="assets/plugins/raphael/raphael-min.js"></script>
+        <script src="assets/pages/morris.init.js"></script>
+
+        <!-- App js -->
+        <script src="assets/js/app.js"></script>
+    </form>
+</body>
+
+</html>
